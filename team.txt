@@ -1,4 +1,4 @@
-<b>History</b>
+History
 The Kentucky Colonels were a member of the American Basketball Association for all of the league's 
 nine years. The name is derived from the historic Kentucky colonels. The Colonels won the most games 
 and had the highest winning percentage of any franchise in the league's history, but the team did not 
@@ -23,6 +23,6 @@ Number, name, position
 45, Bobby Rascoe, Small forward
 14/41, Kendall Rhine, Center
 42, Joe Roberts, Small forward
-32,R ubin Russell, Shooting guard
+32, Rubin Russell, Shooting guard
 14, George Sutor, Center
 54, Tommy Woods, Power bottom
